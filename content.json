@@ -1,0 +1,308 @@
+{
+  "profile": {
+    "name": "Ayush Raj",
+    "initials": "AR",
+    "subtitle": "Student • Builder • Developer • Creator • Explorer • Gamer",
+    "bio": "I’m into building things—whether it’s code, circuits, robots, AI systems, or physics simulations. This portfolio is where I document what I build, experiment with, break, fix, and learn along the way."
+  },
+  "currentWork": {
+    "building": "Virtual Steering Wheel System • Ayulang Compiler",
+    "exploring": "Left-hand writing techniques • Grid-based drawing",
+    "creating": "New Projects • Experiments • Ideas"
+  },
+  "projects": [
+    {
+      "title": "Virtual Steering Wheel",
+      "category": "Hardware & Electronics",
+      "status": "In Development/Prototyping",
+      "description": "Control Euro Truck Simulator 2 using your phone as a steering wheel — tilt it to steer, tap buttons for gas, brake, gear shifts, indicators, and horn. Optionally add webcam hand/face tracking for a fully hands-free experience.",
+      "github": "https://github.com/ayush-03404/Virtual_Steering_Wheel",
+      "images": [
+        { "src": "assets/projects/vsw/dashboard.png", "caption": "Primary hardware assembly" }
+      ],
+      "subsections": [
+        {
+          "heading": "Sensor Integration",
+          "text": "Utilizing precision hardware like the AS5600 Magnetic Encoder Induction Angle Sensor for accurate rotational telemetry."
+        }
+      ]
+    },
+    {
+      "title": "SMART EVM",
+      "category": "IoT & Software",
+      "status": "Completed",
+      "description": "A complete electronic voting system built with an ESP8266 microcontroller and a Windows desktop application.",
+      "github": "https://github.com/ayush-03404/Smart_EVM",
+      "images": [
+        { "src": "assets/projects/smartevm/dashboard.jpg", "caption": "Custom dashboard vector icons for user-friendly voting interface" }
+      ],
+      "subsections": []
+    },
+    {
+      "title": "XY Writing Robot",
+      "category": "Robotics & Automation",
+      "status": "In Development",
+      "description": "A two-axis robotic writing machine that precisely moves a pen along X and Y axes to reproduce text, drawings, and geometric patterns from digital instructions.",
+      "github": "",
+      "images": [
+        {
+          "src": "assets/projects/writing robot/design.png",
+          "caption": "Two-axis pen plotting mechanism"
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Mini CNC Plotter",
+      "category": "Robotics & Motion Control",
+      "status": "Planned",
+      "description": "A compact computer-controlled CNC plotting system capable of converting digital paths into coordinated stepper-motor movements for drawing and engraving operations.",
+      "github": "",
+      "images": [],
+      "subsections": []
+    },
+    {
+      "title": "AI Handwriting Plotter",
+      "category": "AI & Robotics",
+      "status": "Planned",
+      "description": "An intelligent handwriting system that processes handwritten or digital text, generates realistic writing paths, and sends the resulting motion data to a physical XY plotting robot.",
+      "github": "",
+      "images": [],
+      "subsections": []
+    },
+    {
+      "title": "Atom-Lab",
+      "category": "Physics & Scientific Computing",
+      "status": "In Development",
+      "description": "An interactive scientific simulation platform for exploring atomic structure, particles, antimatter, matter states, and particle interactions through visual computational models.",
+      "github": "",
+      "images": [
+        {
+          "src": "assets/projects/atomlab/bohr model.png",
+          "caption": "Niel Bohr Atomic Model"
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Bharat Railways",
+      "category": "Simulation & Game Development",
+      "status": "In Development",
+      "description": "A detailed Minecraft railway simulation project focused on Indian railway infrastructure, including locomotives, coaches, stations, tracks, signalling, overhead electrification, and railway operations.",
+      "github": "",
+      "images": [
+        {
+          "src": "assets/projects/bharat-railways/mc-logo.jpg",
+          "caption": "Language and Enviroment of the development"
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Web Development Showcase",
+      "category": "Software",
+      "status": "Ongoing",
+      "description": "A collection of web platforms and digital tools I have developed, including this very portfolio. This site operates as a fully static, JSON-driven content architecture running independently on GitHub Pages.",
+      "images": [],
+      "subsections": []
+    }
+  ],
+  "iotAndElectronics": [
+    {
+      "title": "Microcontroller Ecosystems",
+      "description": "Developing custom firmware and networking protocols using ESP8266 NodeMCU, ESP32, and Arduino boards.",
+      "tags": ["ESP32", "ESP8266", "C++", "Sensors"]
+    },
+    {
+      "title": "Hardware Modules & Transceivers",
+      "description": "Integrating NRF24L01 wireless transceiver modules, CH376S USB read/write modules, and various display/motor arrays into cohesive physical systems.",
+      "tags": ["Wireless", "Motors", "Hardware Integration"]
+    }
+  ],
+  "creativeWork": [
+    {
+      "title": "Tokyo Travel Poster Series",
+      "description": "Aesthetic graphic artwork incorporating Japanese typography (未来と伝統が交差する場所).",
+      "images": [
+        { "src": "assets/images/tokyo-cover/tokyo-cover.png", "caption": "Future Meets Tradition" }
+      ]
+    },
+    {
+      "title": "Unpredictable Troll Face",
+      "description": "A handmade troll face with exaggerated, uneven features and a mischievous expression. The bright colors, bold lines, and lopsided grin give it a funny and slightly chaotic personality.",
+      "images": [
+        {
+          "src": "assets/drawings/unpredictable-troll.jpg",
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "title": "Eiffel Tower | Paris",
+      "description": "A hand-drawn illustration of the Eiffel Tower made using black pen and sketch pen. The fine details and simple monochrome style highlight its classic architecture and charm.",
+      "images": [
+        {
+          "src": "assets/drawings/eiffel-tower.jpg",
+          "caption": "Eiffel Tower | Paris"
+        }
+      ]
+    },
+    {
+      "title": "Tower Bridge | London",
+      "description": "A hand-drawn illustration of the iconic Tower Bridge, created using black pen and sketch pen. The detailed lines and bold strokes capture the bridge’s classic architecture in a simple monochrome style.",
+      "images": [
+        {
+          "src": "assets/drawings/tower-bridge.jpg",
+          "caption": "Tower Bridge | London"
+        }
+      ]
+    },
+    {
+      "title": "Supra MK4",
+      "description": "A drawing of a supra MK4, handmade and made with black marker and black pen.",
+      "images": [
+        {
+          "src": "assets/drawings/supra-mk4.jpg",
+          "caption": "Supra MK4 inspired from 'The Fast and the Furious'"
+        }
+      ]
+    },
+    {
+      "title": "Supra MK5",
+      "description": "A hand-drawn illustration of the legendary Toyota Supra MK5, created entirely with black ink pen. The bold outlines and detailed shading bring out the car’s aggressive design and sporty character.",
+      "images": [
+        {
+          "src": "assets/drawings/supra-mk5.jpeg",
+          "caption": "Supra MK4 inspired from 'The Fast and the Furious: Tokyo Drift'"
+        }
+      ]
+    },
+    {
+      "title": "Nissan GTR Skyline R34 | 2Fast 2Furious",
+      "description": "A hand-drawn illustration of the iconic Nissan Skyline GT-R R34, inspired by its famous Fast & Furious look. Created with colored pencils, the detailed shading and blue racing stripes bring out the car’s aggressive design and street-racing character.",
+      "images": [
+        {
+          "src": "assets/drawings/skyline-r34.jpg",
+          "caption": "Nissan GTR Skyline R34 inspired from '2Fast 2Furious'"
+        }
+      ]
+    },
+    {
+      "title": "Kawasaki Ninja H2R",
+      "description": "A hand-drawn illustration of the Kawasaki Ninja H2R, created entirely with a black ink pen. The sharp lines and detailed shading highlight its aggressive design and powerful racing character.",
+      "images": [
+        {
+          "src": "assets/drawings/h2r.jpg",
+          "caption": "I'm a Kawasaki Lover"
+        }
+      ]
+    },
+    {
+      "title": "Sigma Gymrat",
+      "description": "A hand-drawn Sigma Male illustration created entirely with black ink pen. Detailed hatching and cross-hatching add depth and definition, giving the character a bold, confident, and powerful look.",
+      "images": [
+        {
+          "src": "assets/drawings/gymer.jpg",
+          "caption": "Inspired to make because of being fitness freak"
+        }
+      ]
+    },
+    {
+      "title": "Rhinoceros",
+      "description": "A hand-drawn rhinoceros created entirely with black ink, focusing on hatching and fine linework. The layered strokes bring out its rough texture, solid form, and natural details.",
+      "images": [
+        {
+          "src": "assets/drawings/rhinoceros.jpg",
+          "caption": "Just love animals"
+        }        
+      ]
+    },
+    {
+      "title": "Inner Demon Unleashed",
+      "description": "A black-and-white character illustration featuring a fierce expression, sharp horns, and detailed hair. Bold linework and shading give the character a powerful, intense look with a strong anime-inspired style.",
+      "images": [
+        {
+          "src": "assets/drawings/demon-unleashed.jpg",
+          "caption": "IDK why I made this"
+        }
+      ]
+    },
+    {
+      "title": "NBA PlayBoy",
+      "description": "A hand-drawn sketch of an NBA player playing basketball, capturing the movement and energy of the game. The bold lines and shading give the figure a dynamic and sporty look.",
+      "images": [
+        {
+          "src": "assets/drawings/nba-playboy.jpg",
+          "caption": "Used to be a Basketball player"
+        }
+      ]
+    },
+    {
+      "title": "Footballers",
+      "description": "A black-and-white pen sketch of children playing football, capturing their energy and movement. The dynamic poses and expressive lines give the drawing a lively and playful feel.",
+      "images": [
+        {
+          "src": "assets/drawings/footballers.jpg",
+          "caption": "Used to be a football player"
+        }
+      ]
+    }
+  ],
+  "workspace": {
+    "description": "This is my main development and engineering workspace, where most of my projects go from an idea to something that actually works. The dual-monitor setup lets me code, debug, research, and monitor hardware at the same time, while tools, components, and storage drives are always within reach for testing and flashing microcontrollers. It's basically my little engineering lab for programming, electronics, robotics, and experiments.",
+    "image": "assets/images/workspace/dual-monitor-setup.jpeg"
+  },
+  "achievements": [
+    {
+      "title": "SMART EVM — Full System Built",
+      "date": "2026",
+      "description": "Designed and built a working electronic voting system using ESP8266, touch sensors, wireless communication, and a custom Windows desktop application."
+    },
+    {
+      "title": "Embedded Systems & IoT Development",
+      "date": "2026",
+      "description": "Built multiple ESP8266-based prototypes involving sensors, displays, wireless communication, and real-time hardware control."
+    },
+    {
+      "title": "Virtual Steering Controller",
+      "date": "2026",
+      "description": "Developed a wireless physical steering interface using microcontrollers and joystick input to control a computer-based simulation."
+    },
+    {
+      "title": "Atom-Lab",
+      "date": "Ongoing",
+      "description": "Started developing an interactive physics simulation platform exploring atoms, particles, antimatter, matter, and particle interactions."
+    },
+    {
+      "title": "Bharat Railways Project",
+      "date": "Ongoing",
+      "description": "Started developing a detailed Indian railway simulation covering locomotives, coaches, tracks, stations, signalling, and railway operations."
+    },
+    {
+      "title": "Left-Hand Writing Mastery",
+      "date": "Ongoing",
+      "description": "Actively training and documenting my progress in ambidexterity and left-hand writing."
+    },
+    {
+      "title": "XY Writing Robot",
+      "date": "Planning",
+      "description": "Training my non-dominant hand through regular writing and drawing practice to improve control, precision, and coordination."
+    },
+    {
+      "title": "3D Models for XY Writing Robot are being prepared",
+      "date": "Ongoing",
+      "description": ""
+    }
+  ],
+  "skills": {
+    "Engineering": ["IoT / ESP8266 / ESP32", "Arduino", "Robotics", "Sensors & Motors"],
+    "Software": ["Web Development", "AI / Programming", "System Architecture", "Compiler Design (Rust)"],
+    "Creative": ["Vector Graphics", "Brush Calligraphy", "Grid-based Drawing", "Ambidextrous Writing"],
+    "Sciences": ["Physics", "Mathematics", "Astronomy"]
+  },
+  "social": {
+    "github": "https://github.com/ayush-03404",
+    "pinterest": "https://in.pinterest.com/TheAestheticInk03404/",
+    "email": "ayushraj03404@gmail.com"
+  }
+}
