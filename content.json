@@ -60,14 +60,14 @@
       "github": "https://github.com/Ayura-Works",
       "images": [
         { "src": "assets/icons/ayura-works.png", 
-          "caption": "Icon of the Org. running under Ayura Inc."
+          "caption": "Ayura Works organization identity"
         }
       ],
       "subsections": [
         {
           "heading": "Astra Robotics - Engineering Intelligence Into Motion.",
           "text": "A premium industrial robotics and automation website showcasing intelligent engineering systems, robotic solutions, and advanced technology."
-        }
+        },
         {
           "heading": "Brew & Bean - Coffee Worth Slowing Down For",
           "text": "A premium specialty café website combining editorial design, coffee culture, menu presentation, and a warm hospitality experience."
@@ -100,7 +100,7 @@
       "images": [
         {
           "src": "assets/projects/atomlab/bohr model.png",
-          "caption": "Niel Bohr Atomic Model"
+          "caption": "Niels Bohr Atomic Model"
         }
       ],
       "subsections": []
@@ -194,7 +194,7 @@
       "images": [
         {
           "src": "assets/drawings/supra-mk5.jpeg",
-          "caption": "Supra MK4 inspired from 'The Fast and the Furious: Tokyo Drift'"
+          "caption": "Supra MK5 inspired from 'The Fast and the Furious: Tokyo Drift'"
         }
       ]
     },
