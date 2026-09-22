@@ -65,7 +65,24 @@ document.addEventListener('DOMContentLoaded', () => {
                                         </div>
                                     `).join('') + `</div>`;
                             }
-                            return `<h5>${sub.heading}</h5><p>${sub.text}</p>${subImagesHTML}`;
+                            let subLinksHTML = '';
+
+                            if (sub.github) {
+                                subLinksHTML = `
+                                    <div class="project-links">
+                                        <a href="${sub.github}" target="_blank" rel="noopener noreferrer" class="github-button">
+                                            View on GitHub
+                                        </a>
+                                    </div>
+                                `;
+                            }
+
+                            return `
+                                <h5>${sub.heading}</h5>
+                                <p>${sub.text}</p>
+                                ${subLinksHTML}
+                                ${subImagesHTML}
+                            `;
                         }).join('') + 
                         `</div>`;
                 }
