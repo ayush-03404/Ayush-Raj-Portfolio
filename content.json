@@ -53,6 +53,27 @@
       "subsections": []
     },
     {
+      "title": "Ayura Works - A Futuristic Organization",
+      "category": "For Preview and Freelancing",
+      "status": "In Development",
+      "description": "Ayura Works is your umbrella creative/technology organization for building professional digital products, websites, software, robotics, electronics, and AI projects.",
+      "github": "https://github.com/Ayura-Works",
+      "images": [
+        { "src": "assets/icons/ayura-works.png", 
+          "caption": "Icon of the Org. running under Ayura Inc."
+        }
+      ],
+      "subsections": [
+        {
+          "heading": "Astra Robotics - Engineering Intelligence Into Motion.",
+          "text": "A premium industrial robotics and automation website showcasing intelligent engineering systems, robotic solutions, and advanced technology."
+        }
+        {
+          "heading": "Brew & Bean - Coffee Worth Slowing Down For",
+          "text": "A premium specialty café website combining editorial design, coffee culture, menu presentation, and a warm hospitality experience."
+      ]
+    },
+    {
       "title": "Mini CNC Plotter",
       "category": "Robotics & Motion Control",
       "status": "Planned",
