@@ -66,11 +66,13 @@
       "subsections": [
         {
           "heading": "Astra Robotics - Engineering Intelligence Into Motion.",
-          "text": "A premium industrial robotics and automation website showcasing intelligent engineering systems, robotic solutions, and advanced technology."
+          "text": "A premium industrial robotics and automation website showcasing intelligent engineering systems, robotic solutions, and advanced technology.",
+          "github": "https://github.com/Ayura-Works/Astra-Robotics"
         },
         {
           "heading": "Brew & Bean - Coffee Worth Slowing Down For",
-          "text": "A premium specialty café website combining editorial design, coffee culture, menu presentation, and a warm hospitality experience."
+          "text": "A premium specialty café website combining editorial design, coffee culture, menu presentation, and a warm hospitality experience.",
+          "github": "https://github.com/Ayura-Works/Brew-and-Bean"
         }
       ]
     },
